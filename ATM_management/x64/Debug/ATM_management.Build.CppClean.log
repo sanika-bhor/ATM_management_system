@@ -1,14 +1,20 @@
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\vc143.pdb
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\vc143.idb
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\main.obj
-s:\2.second year\3.c++\atm_management\x64\debug\atm_management.exe
-s:\2.second year\3.c++\atm_management\x64\debug\atm_management.pdb
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\atm_management.ilk
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\atm_management.tlog\cl.command.1.tlog
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\atm_management.tlog\cl.items.tlog
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\atm_management.tlog\cl.read.1.tlog
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\atm_management.tlog\cl.write.1.tlog
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\atm_management.tlog\link.command.1.tlog
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\atm_management.tlog\link.read.1.tlog
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\atm_management.tlog\link.secondary.1.tlog
-s:\2.second year\3.c++\atm_management\atm_management\x64\debug\atm_management.tlog\link.write.1.tlog
+a:\github\atm_management_system\atm_management\x64\debug\vc143.pdb
+a:\github\atm_management_system\atm_management\x64\debug\vc143.idb
+a:\github\atm_management_system\atm_management\x64\debug\withdrawsaving.obj
+a:\github\atm_management_system\atm_management\x64\debug\withdrawcurrent.obj
+a:\github\atm_management_system\atm_management\x64\debug\savingaccount.obj
+a:\github\atm_management_system\atm_management\x64\debug\main.obj
+a:\github\atm_management_system\atm_management\x64\debug\depositesaving.obj
+a:\github\atm_management_system\atm_management\x64\debug\depositecurrent.obj
+a:\github\atm_management_system\atm_management\x64\debug\currentaccount.obj
+a:\github\atm_management_system\x64\debug\atm_management.exe
+a:\github\atm_management_system\x64\debug\atm_management.pdb
+a:\github\atm_management_system\atm_management\x64\debug\atm_management.ilk
+a:\github\atm_management_system\atm_management\x64\debug\atm_management.tlog\cl.command.1.tlog
+a:\github\atm_management_system\atm_management\x64\debug\atm_management.tlog\cl.items.tlog
+a:\github\atm_management_system\atm_management\x64\debug\atm_management.tlog\cl.read.1.tlog
+a:\github\atm_management_system\atm_management\x64\debug\atm_management.tlog\cl.write.1.tlog
+a:\github\atm_management_system\atm_management\x64\debug\atm_management.tlog\link.command.1.tlog
+a:\github\atm_management_system\atm_management\x64\debug\atm_management.tlog\link.read.1.tlog
+a:\github\atm_management_system\atm_management\x64\debug\atm_management.tlog\link.secondary.1.tlog
+a:\github\atm_management_system\atm_management\x64\debug\atm_management.tlog\link.write.1.tlog
