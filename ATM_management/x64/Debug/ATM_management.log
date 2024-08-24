@@ -1,0 +1,14 @@
+﻿  currentAccount.cpp
+A:\github\ATM_management_system\ATM_management\currentAccount.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  DepositeCurrent.cpp
+  DepositeSaving.cpp
+  Main.cpp
+  savingAccount.cpp
+  WithdrawCurrent.cpp
+  WithdrawSaving.cpp
+  Generating Code...
+A:\github\ATM_management_system\ATM_management\WithdrawSaving.cpp(19,1): warning C4715: 'WithdrawSaving::withdrawBalance': not all control paths return a value
+A:\github\ATM_management_system\ATM_management\WithdrawCurrent.cpp(19,1): warning C4715: 'WithdrawCurrent::withdrawBalance': not all control paths return a value
+A:\github\ATM_management_system\ATM_management\savingAccount.cpp(114,1): warning C4715: 'savingAccount': not all control paths return a value
+A:\github\ATM_management_system\ATM_management\currentAccount.cpp(118,1): warning C4715: 'currentAccount': not all control paths return a value
+  ATM_management.vcxproj -> A:\github\ATM_management_system\x64\Debug\ATM_management.exe
